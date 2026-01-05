@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/Avinash-kumar-82/typescriptSPLToken
-cd SPLToken
+cd typescriptSPLToken
 ````
 
 
